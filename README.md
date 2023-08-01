@@ -8,7 +8,7 @@ In the code artifact-free EEG signals are z-score normalized to have zero mean a
 The code  gives 
 1) a figure of the probability density of the z-score normalized EEG signal amplitude, with fitted gaussian.
 2) the histogram of avalanche's size and duration distributions, both with linear and logarithmic binning.
-The code ok_avalanches.m load data from file SS_N1_TEST.mat that have a test sample of signals (only the few hours of the eeg signals of first subject, where waking and motion artifact segments were removed).
+The code ok_avalanches.m load data from file SS_N1_TEST.mat that have a test sample of signals (only few hours of the eeg signals of first subject, where waking and motion artifact segments were removed).
    
     Prerequisites: 
         Matlab
