@@ -12,3 +12,7 @@ The code ok_avalanches.m load data from file SS_N1_TEST.mat that have a test sam
    
     Prerequisites: 
         Matlab
+
+Article : iScience 2023
+Criticality of neuronal avalanches in human sleep
+and their relationship with sleep macro- and microarchitecture Scarpetta et al.
